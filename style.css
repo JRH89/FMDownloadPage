@@ -58,6 +58,7 @@ section {
 }
 .feature img {
     width: 40%;
+    height: 100%;
     border: 5px solid #0a710f;
     border-radius: 12px;
     border-width: 5;
